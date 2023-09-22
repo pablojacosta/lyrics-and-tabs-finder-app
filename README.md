@@ -1,3 +1,2 @@
-# lyrics-and-tabs-finder-app
+# lyrics-and-tabs-finder-app-backend
 An app that lets you find easily lyrics and guitar tabs of requested songs. 
-Built using React, Node.js, Chakra UI, axios, express and cheerio (Backend code).
